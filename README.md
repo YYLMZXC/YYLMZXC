@@ -12,7 +12,6 @@
 - Python
 - HTML / CSS
 其实只是会一点点
-- ~~Scratch~~
 ## 📞 Contact Me
 - [Youtube](https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA)
 - [Bilibili](https://space.bilibili.com/392592375)
