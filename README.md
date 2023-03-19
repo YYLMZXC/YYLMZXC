@@ -15,7 +15,7 @@ omg，我的github一团糟！
 ## 📞 Contact Me
 - [Youtube](https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA)
 - [Bilibili](https://space.bilibili.com/392592375)
-- [mail]YYLMZXC@163.com
+- [mail](YYLMZXC@163.com)
 - [twitter](https://twitter.com/hmhxc)
 ## 🌐 Website / Blog
 - https://www.cnblogs.com/yylmzxc/
