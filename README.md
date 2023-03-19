@@ -21,8 +21,8 @@ omg，我的github一团糟！
 - [Youtube](https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA)
 - [Bilibili](https://space.bilibili.com/392592375)
 - [mail](YYLMZXC@163.com)
-- [twitter](https://twitter.com/hmhxc)
-<a href="https://twitter.com/hmhxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmhxc" height="30" width="40" /></a>
+- <a href="https://twitter.com/hmhxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmhxc" height="30" width="40" /></a>[twitter](https://twitter.com/hmhxc)
+
                                                         
                                                         
 ## 🌐 Website / Blog
