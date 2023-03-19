@@ -10,7 +10,7 @@ omg，我的github一团糟！
 - 🌱 I’m currently learning **.** and **.**
 
 - 📫 How to reach me(Discord): [**YU-yylmzxc#7780**]()
-- 
+
 ## ⚛️ Programming Languages
 - C#
 - Java
@@ -21,7 +21,9 @@ omg，我的github一团糟！
 - [Youtube](https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA)
 - [Bilibili](https://space.bilibili.com/392592375)
 - [mail](YYLMZXC@163.com)
-- [twitter](https://twitter.com/hmhxc)
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hmhxc" target="blank"><img [twitter](https://twitter.com/hmhxc)
 ## 🌐 Website / Blog
 - [blogs](https://www.cnblogs.com/yylmzxc/)
 
