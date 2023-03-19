@@ -18,7 +18,7 @@ omg，我的github一团糟！
 - [mail](YYLMZXC@163.com)
 - [twitter](https://twitter.com/hmhxc)
 ## 🌐 Website / Blog
-- https://www.cnblogs.com/yylmzxc/
+- [blogs](https://www.cnblogs.com/yylmzxc/)
 
 #
 
