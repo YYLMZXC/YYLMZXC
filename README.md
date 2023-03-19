@@ -23,7 +23,10 @@ omg，我的github一团糟！
 - [mail](YYLMZXC@163.com)
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hmhxc" target="blank"><img [twitter](https://twitter.com/hmhxc)
+<a href="https://twitter.com/hmhxc" target="blank"><img 
+ - [twitter](https://twitter.com/hmhxc)
+                                                        
+                                                        
 ## 🌐 Website / Blog
 - [blogs](https://www.cnblogs.com/yylmzxc/)
 
