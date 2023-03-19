@@ -9,7 +9,7 @@ omg，我的github一团糟！
 
 - 🌱 I’m currently learning **.** and **.**
 
-- 📫 How to reach me(Discord): [**YU-yylmzxc#7780**]()
+- 📫 How to reach me(Discord): [**YU-yylmzxc]()
 
 ## ⚛️ Programming Languages
 - C#
