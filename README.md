@@ -16,6 +16,7 @@ omg，我的github一团糟！
 - [Youtube](https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA)
 - [Bilibili](https://space.bilibili.com/392592375)
 - YYLMZXC@163.com
+- [https://twitter.com/home](https://twitter.com/hmhxc)
 ## 🌐 Website / Blog
 - https://www.cnblogs.com/yylmzxc/
 
