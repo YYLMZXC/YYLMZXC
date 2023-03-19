@@ -1,11 +1,16 @@
-# YYLMMZXC 😇
+# Hellooow 👋, I'm YYLMMZXC 😇
 ### 一个萌新
 omg，我的github一团糟！
 一个普通的 Genshin Impact 玩家。
 <br/>
 
 > B站~~低创~~UP主
+- 📖 I’m currently working on **.**
 
+- 🌱 I’m currently learning **.** and **.**
+
+- 📫 How to reach me(Discord): [**YU-yylmzxc#7780**]()
+- 
 ## ⚛️ Programming Languages
 - C#
 - Java
