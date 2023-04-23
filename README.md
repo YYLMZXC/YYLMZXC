@@ -2,6 +2,8 @@
 ### 一个萌新
 omg，我的github一团糟！
 一个普通的 Genshin Impact 玩家。
+和 Honkai: Star Rail 玩家
+
 <br/>
 
 > B站~~低创~~UP主
