@@ -5,8 +5,8 @@ omg，我的github一团糟！
 和 Honkai: Star Rail 玩家
 
 ##DMCA
-https://github.com/github/dmca/blob/master/2024/02/2024-02-26-geshin-impact.md
-https://github.com/YYLMZXC/hk4e
+<a href="https://github.com/github/dmca/blob/master/2024/02/2024-02-26-geshin-impact.md" target="_blank">DMCA</a>
+<a href="https://github.com/YYLMZXC/hk4e" target="_blank">yylmzxc</a>
 
 <br/>
 
