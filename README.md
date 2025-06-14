@@ -3,9 +3,11 @@
 omg，我的github一团糟！
 一个普通的 Genshin Impact 玩家。
 和 Honkai: Star Rail 玩家
-DMCA
 
+##DMCA
 https://github.com/github/dmca/blob/master/2024/02/2024-02-26-geshin-impact.md
+https://github.com/YYLMZXC/hk4e
+
 <br/>
 
 > B站~~低创~~UP主
