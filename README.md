@@ -36,18 +36,25 @@
 
 ## 📫 联系我
 
+<!-- 添加Font Awesome CDN以确保图标正常显示 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA" target="blank" style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="24" width="24" />
+  <a href="https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA" target="blank" style="display: flex; align-items: center; gap: 5px; color: #ff0000;">
+    <i class="fab fa-youtube" style="font-size: 24px;"></i>
     <span>YouTube</span>
   </a>
-  <a href="https://space.bilibili.com/392592375" target="blank" style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bilibili_logo_%28pink%29.svg/1200px-Bilibili_logo_%28pink%29.svg.png" alt="Bilibili" height="24" width="24" />
+  <a href="https://space.bilibili.com/392592375" target="blank" style="display: flex; align-items: center; gap: 5px; color: #00a1d6;">
+    <i class="fas fa-play-circle" style="font-size: 24px;"></i>
     <span>Bilibili</span>
   </a>
-  <a href="mailto:YYLMZXC@163.com" style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="24" width="24" />
-    <span>Email</span>
+  <a href="mailto:YYLMZXC@163.com" style="display: flex; align-items: center; gap: 5px; color: #ea4335;">
+    <i class="fas fa-envelope" style="font-size: 24px;"></i>
+    <span>163邮箱</span>
+  </a>
+  <a href="https://gitee.com/yylmzxc" target="blank" style="display: flex; align-items: center; gap: 5px; color: #c71d23;">
+    <i class="fas fa-code-branch" style="font-size: 24px;"></i>
+    <span>Gitee</span>
   </a>
 </div>
 
