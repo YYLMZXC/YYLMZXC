@@ -14,17 +14,43 @@
 
 ### 编程语言
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="background: #239120; color: white; padding: 5px 10px; border-radius: 4px;">C#</div>
-  <div style="background: #f89820; color: white; padding: 5px 10px; border-radius: 4px;">Java</div>
-  <div style="background: #3572A5; color: white; padding: 5px 10px; border-radius: 4px;">Python</div>
-  <div style="background: #e34c26; color: white; padding: 5px 10px; border-radius: 4px;">HTML</div>
-  <div style="background: #1572B6; color: white; padding: 5px 10px; border-radius: 4px;">CSS</div>
+  <div style="background: #239120; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🔷</span>
+    <span>C#</span>
+  </div>
+  <div style="background: #f89820; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>☕</span>
+    <span>Java</span>
+  </div>
+  <div style="background: #3572A5; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🐍</span>
+    <span>Python</span>
+  </div>
+  <div style="background: #e34c26; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🔤</span>
+    <span>HTML</span>
+  </div>
+  <div style="background: #1572B6; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🎨</span>
+    <span>CSS</span>
+  </div>
 </div>
 
 ### 开发工具
-- Visual Studio / VS Code
-- IntelliJ IDEA
-- Git & GitHub
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <div style="display: flex; align-items: center; gap: 5px; background: #f3f4f6; padding: 8px 12px; border-radius: 4px;">
+    <span>🖥️</span>
+    <span>Visual Studio / VS Code</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px; background: #f3f4f6; padding: 8px 12px; border-radius: 4px;">
+    <span>💡</span>
+    <span>IntelliJ IDEA</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px; background: #f3f4f6; padding: 8px 12px; border-radius: 4px;">
+    <span>📦</span>
+    <span>Git & GitHub</span>
+  </div>
+</div>
 
 ## 📊 GitHub 统计
 <!-- GitHub Stats Card -->
@@ -52,6 +78,11 @@
   <a href="https://gitee.com/yylmzxc" target="blank" style="display: flex; align-items: center; gap: 5px;">
     <img src="res/gitee.png" alt="Gitee" width="24" height="24" />
     <span>Gitee</span>
+  </a>
+
+  <a href="https://v.douyin.com/YKRh4dM-A-4/" target="blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="res/douyin.png" alt="抖音" width="24" height="24" />
+    <span>抖音</span>
   </a>
 </div>
 
