@@ -36,4 +36,4 @@ omg，我的github一团糟！
 
 ### 图片背景
 
-<img align="right" src="https://images.cnblogs.com/cnblogs_com/blogs/745527/galleries/2136998/o_220402091812_%E9%AD%88.jpg">
+<img align="right" src="res/1.jpg">
