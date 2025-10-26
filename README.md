@@ -95,9 +95,10 @@
 - [GitHub DMCA信息](https://github.com/github/dmca/blob/master/2024/02/2024-02-26-geshin-impact.md)
 - [我的项目](https://github.com/YYLMZXC/hk4e)
 
-## 🔗 主要开发项目
-- [SurvivalcraftIOS](https://gitee.com/survivalcraft-net/survivalcraft-ios) - 
-- [Survivalcraft_Server_DLL](https://gitee.com/sc-survivalcraft-gps/Survivalcraft_Server_DLL) - 
+## 🔗 项目
+
+- [Project Links](https://github.com/YYLMZXC/Project-Links) - Project Links
+
 
 ## 🎨 个人形象
 
