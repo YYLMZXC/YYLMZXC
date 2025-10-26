@@ -36,24 +36,21 @@
 
 ## 📫 联系我
 
-<!-- 添加Font Awesome CDN以确保图标正常显示 -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA" target="blank" style="display: flex; align-items: center; gap: 5px; color: #ff0000;">
-    <i class="fab fa-youtube" style="font-size: 24px;"></i>
+  <a href="https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA" target="blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="res/youtube.png" alt="YouTube" width="24" height="24" />
     <span>YouTube</span>
   </a>
-  <a href="https://space.bilibili.com/392592375" target="blank" style="display: flex; align-items: center; gap: 5px; color: #00a1d6;">
-    <i class="fas fa-play-circle" style="font-size: 24px;"></i>
+  <a href="https://space.bilibili.com/392592375" target="blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="res/bilibili.png" alt="Bilibili" width="24" height="24" />
     <span>Bilibili</span>
   </a>
-  <a href="mailto:YYLMZXC@163.com" style="display: flex; align-items: center; gap: 5px; color: #ea4335;">
-    <i class="fas fa-envelope" style="font-size: 24px;"></i>
+  <a href="mailto:YYLMZXC@163.com" style="display: flex; align-items: center; gap: 5px;">
+    <img src="res/mailto.png" alt="163邮箱" width="24" height="24" />
     <span>163邮箱</span>
   </a>
-  <a href="https://gitee.com/yylmzxc" target="blank" style="display: flex; align-items: center; gap: 5px; color: #c71d23;">
-    <i class="fas fa-code-branch" style="font-size: 24px;"></i>
+  <a href="https://gitee.com/yylmzxc" target="blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="res/gitee.png" alt="Gitee" width="24" height="24" />
     <span>Gitee</span>
   </a>
 </div>
