@@ -1,5 +1,6 @@
 import http.server
 import socketserver
+from socketserver import ThreadingMixIn
 import webbrowser
 import threading
 import time
@@ -10,6 +11,19 @@ PORT = 8080
 
 # 简单的Markdown解析器函数
 def markdown_to_html(markdown):
+    # 首先处理HTML标签，将它们暂时替换为占位符，避免后续正则替换影响
+    html_placeholders = {}
+    import re
+    html_pattern = re.compile(r'<[^>]+>')
+    
+    def save_html(match):
+        placeholder = f"__HTML_PLACEHOLDER_{len(html_placeholders)}__"
+        html_placeholders[placeholder] = match.group(0)
+        return placeholder
+    
+    # 保存所有HTML标签
+    markdown = html_pattern.sub(save_html, markdown)
+    
     # 标题处理
     markdown = re.sub(r'^# (.*?)$', r'<h1>\1</h1>', markdown, flags=re.MULTILINE)
     markdown = re.sub(r'^## (.*?)$', r'<h2>\1</h2>', markdown, flags=re.MULTILINE)
@@ -24,6 +38,10 @@ def markdown_to_html(markdown):
     
     # 图片
     markdown = re.sub(r'!\[(.*?)\]\((.*?)\)', r'<img src="\2" alt="\1" />', markdown)
+    
+    # 恢复所有HTML标签
+    for placeholder, html in html_placeholders.items():
+        markdown = markdown.replace(placeholder, html)
     
     # 列表项
     markdown = re.sub(r'^- (.*?)$', r'<li>\1</li>', markdown, flags=re.MULTILINE)
@@ -248,8 +266,12 @@ class CustomHandler(http.server.SimpleHTTPRequestHandler):
             super().do_GET()
 
 # 启动服务器的函数
+# 创建支持多线程的TCP服务器类
+class ThreadingTCPServer(ThreadingMixIn, socketserver.TCPServer):
+    daemon_threads = True
+
 def start_server():
-    with socketserver.TCPServer(("", PORT), CustomHandler) as httpd:
+    with ThreadingTCPServer(("0.0.0.0", PORT), CustomHandler) as httpd:
         print(f"服务器启动在 http://localhost:{PORT}")
         print(f"请在浏览器中访问 http://localhost:{PORT} 查看README.md")
         print("按 Ctrl+C 停止服务器")
