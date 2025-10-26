@@ -1,39 +1,76 @@
-# Hellooow 👋, I'm YYLMMZXC 😇
-### 一个萌新
-omg，我的github一团糟！
-一个普通的 Genshin Impact 玩家。
-和 Honkai: Star Rail 玩家
+# 👋 Hello, I'm YYLMMZXC 😇
 
-##DMCA
-<a href="https://github.com/github/dmca/blob/master/2024/02/2024-02-26-geshin-impact.md" target="_blank">DMCA</a>
-<a href="https://github.com/YYLMZXC/hk4e" target="_blank">yylmzxc</a>
+## 🎮 关于我
+- **游戏爱好者**：热衷于《原神》和《崩坏：星穹铁道》
+- **B站创作者**：分享游戏和编程相关内容
+- **编程学习者**：正在探索各种编程语言和技术
 
-<br/>
+## 🚀 我正在做什么
+- 📖 探索游戏开发技术和项目
+- 🌱 深入学习C#、Java、Python和Web开发
+- 🎯 提升我的编程技能和项目管理能力
 
-> B站~~低创~~UP主
-- 📖 I’m currently working on **.**
+## 💻 技术栈
 
-- 🌱 I’m currently learning **.** and **.**
+### 编程语言
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="background: #239120; color: white; padding: 5px 10px; border-radius: 4px;">C#</div>
+  <div style="background: #f89820; color: white; padding: 5px 10px; border-radius: 4px;">Java</div>
+  <div style="background: #3572A5; color: white; padding: 5px 10px; border-radius: 4px;">Python</div>
+  <div style="background: #e34c26; color: white; padding: 5px 10px; border-radius: 4px;">HTML</div>
+  <div style="background: #1572B6; color: white; padding: 5px 10px; border-radius: 4px;">CSS</div>
+</div>
 
-- 📫 How to reach me(Discord): [**YU-yylmzxc**]()
+### 开发工具
+- Visual Studio / VS Code
+- IntelliJ IDEA
+- Git & GitHub
 
-## ⚛️ Programming Languages
-- C#
-- Java
-- Python
-- HTML / CSS
-其实只是会一点点
-## 📞 Contact Me
-- <a href="https://www.youtube.com/@yylmzxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yylmzxc" height="30" width="40" /></a>[Youtube](https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA)
-- [Bilibili](https://space.bilibili.com/392592375)
-- [mail](YYLMZXC@163.com)
+## 📊 GitHub 统计
+<!-- GitHub Stats Card -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YYLMZXC&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YYLMZXC&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYLMZXC&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+## 📫 联系我
 
-                                                        
-                                                        
-## 🌐 Website / Blog
-- [blogs](https://www.cnblogs.com/yylmzxc/)
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <a href="https://www.youtube.com/channel/UC9sSvoOdEGqmz4l1u4_YXVA" target="blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="24" width="24" />
+    <span>YouTube</span>
+  </a>
+  <a href="https://space.bilibili.com/392592375" target="blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bilibili_logo_%28pink%29.svg/1200px-Bilibili_logo_%28pink%29.svg.png" alt="Bilibili" height="24" width="24" />
+    <span>Bilibili</span>
+  </a>
+  <a href="mailto:YYLMZXC@163.com" style="display: flex; align-items: center; gap: 5px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="24" width="24" />
+    <span>Email</span>
+  </a>
+</div>
 
-### 图片背景
+## 🌐 我的网站
+- [博客](https://www.cnblogs.com/yylmzxc/) - 分享我的学习和项目经验
 
-<img align="right" src="res/1.jpg">
+## 🔗 相关链接
+- [GitHub DMCA信息](https://github.com/github/dmca/blob/master/2024/02/2024-02-26-geshin-impact.md)
+- [我的项目](https://github.com/YYLMZXC/hk4e)
+
+## 🎨 个人形象
+
+<div style="position: relative; max-width: 500px; margin: 20px auto;">
+  <div style="position: relative; z-index: 1; text-align: center; padding: 20px;">
+    <img src="res/1.jpg" alt="个人背景" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+  </div>
+  <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(0,0,0,0.7), transparent); padding: 20px; border-radius: 0 0 10px 10px; z-index: 2;">
+    <p style="color: white; margin: 0;">探索游戏与编程的奇妙世界 🌟</p>
+  </div>
+</div>
+
+---
+
+<p align="center">
+  <i>"代码是艺术，游戏是生活"</i> 👾
+</p>
