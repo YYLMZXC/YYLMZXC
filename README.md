@@ -88,10 +88,16 @@
 
 ## 🌐 我的网站
 - [博客](https://www.cnblogs.com/yylmzxc/) - 分享我的学习和项目经验
+- [GitHub Pages](https://yylmzxc.github.io/) - GitHub Pages
+- [GitHub 仓库](https://github.com/YYLMZXC/yylmzxc.github.io) - yylmzxc Pages
 
 ## 🔗 相关链接
 - [GitHub DMCA信息](https://github.com/github/dmca/blob/master/2024/02/2024-02-26-geshin-impact.md)
 - [我的项目](https://github.com/YYLMZXC/hk4e)
+
+## 🔗 主要开发项目
+- [SurvivalcraftIOS](https://gitee.com/survivalcraft-net/survivalcraft-ios) - 
+- [Survivalcraft_Server_DLL](https://gitee.com/sc-survivalcraft-gps/Survivalcraft_Server_DLL) - 
 
 ## 🎨 个人形象
 
