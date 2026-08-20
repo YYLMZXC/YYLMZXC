@@ -55,7 +55,7 @@
 ## 📊 GitHub 统计
 <!-- GitHub Stats Card -->
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=YYLMZXC&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=YYLMZXC&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
   <img src="profile/streak.svg" alt="GitHub Streak" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YYLMZXC&layout=compact&theme=radical" alt="Top Languages" />
 </div>
