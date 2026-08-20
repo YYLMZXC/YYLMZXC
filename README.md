@@ -84,6 +84,11 @@
     <img src="res/douyin.png" alt="抖音" width="24" height="24" />
     <span>抖音</span>
   </a>
+
+  <a href="https://cnb.cool/u/YYLMZXC" target="blank" style="display: flex; align-items: center; gap: 5px;">
+    <img src="res/cnb.png" alt="CNB" width="24" height="24" />
+    <span>CNB</span>
+  </a>
 </div>
 
 ## 🌐 我的网站
