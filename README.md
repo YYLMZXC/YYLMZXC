@@ -1,4 +1,4 @@
-# 👋 Hello, I'm YYLMMZXC 😇
+# 👋 Hello, I'm YYLMZXC 😇
 
 ## 🎮 关于我
 - **游戏爱好者**：热衷于《原神》和《崩坏：星穹铁道》
