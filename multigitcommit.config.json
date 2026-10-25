@@ -1,8 +1,11 @@
 {
   "RemoteUrls": [
     "https://github.com/YYLMZXC/YYLMZXC",
-    "https://cnb.cool/YYLMZXC/YYLMZXC"
+    "https://cnb.cool/YYLMZXC/YYLMZXC",
+    "https://gitee.com/yylmzxc/yylmzxc"
   ],
   "CheckAddAll": true,
-  "CheckPushTags": false
+  "CheckPushTags": false,
+  "CheckForceCommit": false,
+  "CheckForcePush": false
 }
