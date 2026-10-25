@@ -1,14 +1,17 @@
-# 👋 Hello, I'm YYLMZXC 😇
+# 👋 你好，我是 YYLMZXC 😇
+
+> 鱼跃龙门摘星辰
 
 ## 🎮 关于我
-- **游戏爱好者**：热衷于《原神》和《崩坏：星穹铁道》
+- **生存战争(Survivalcraft) 生态开发者**：维护 `SCAssistant`、`Survivalcraft_Server_DLL` 等工具
+- **C#/.NET 跨平台开发者**：深耕 Uno Platform / Avalonia UI，兼顾 Go / Rust / Python
 - **B站创作者**：分享游戏和编程相关内容
-- **编程学习者**：正在探索各种编程语言和技术
+- **游戏玩家**：常玩生存战争、英雄联盟、王者荣耀、三角洲行动
 
 ## 🚀 我正在做什么
-- 📖 探索游戏开发技术和项目
-- 🌱 深入学习C#、Java、Python和Web开发
-- 🎯 提升我的编程技能和项目管理能力
+- 🛠️ 开发生存战争(Survivalcraft) 生态工具与插件
+- 🌱 深入 C#/.NET 跨平台开发（Uno Platform、Avalonia）
+- 🎯 探索游戏开发、图形编程与多平台同步工具链
 
 ## 💻 技术栈
 
@@ -18,39 +21,65 @@
     <span>🔷</span>
     <span>C#</span>
   </div>
-  <div style="background: #f89820; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
-    <span>☕</span>
-    <span>Java</span>
+  <div style="background: #00ADD8; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🐹</span>
+    <span>Go</span>
+  </div>
+  <div style="background: #DEA584; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🦀</span>
+    <span>Rust</span>
   </div>
   <div style="background: #3572A5; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
     <span>🐍</span>
     <span>Python</span>
   </div>
-  <div style="background: #e34c26; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
-    <span>🔤</span>
-    <span>HTML</span>
+  <div style="background: #3178C6; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🔷</span>
+    <span>TypeScript</span>
   </div>
-  <div style="background: #1572B6; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
-    <span>🎨</span>
-    <span>CSS</span>
+  <div style="background: #e34c26; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🌐</span>
+    <span>HTML / CSS</span>
   </div>
 </div>
 
-### 开发工具
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="display: flex; align-items: center; gap: 5px; background: #f3f4f6; padding: 8px 12px; border-radius: 4px;">
+### 框架与工具
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="background: #8c44ff; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🧩</span>
+    <span>Uno Platform</span>
+  </div>
+  <div style="background: #8c44ff; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🎨</span>
+    <span>Avalonia UI</span>
+  </div>
+  <div style="background: #0078D4; color: white; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
+    <span>🟣</span>
+    <span>.NET</span>
+  </div>
+  <div style="background: #f3f4f6; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
     <span>🖥️</span>
-    <span>Visual Studio / VS Code</span>
+    <span>Visual Studio / VS Code / Rider</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 5px; background: #f3f4f6; padding: 8px 12px; border-radius: 4px;">
-    <span>💡</span>
-    <span>IntelliJ IDEA</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 5px; background: #f3f4f6; padding: 8px 12px; border-radius: 4px;">
+  <div style="background: #f3f4f6; padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 5px;">
     <span>📦</span>
-    <span>Git & GitHub</span>
+    <span>Git / GitHub / CNB / Gitee</span>
   </div>
 </div>
+
+## 📚 我的项目
+
+| 项目 | 说明 | 技术 |
+| --- | --- | --- |
+| [SCAssistant](https://github.com/YYLMZXC/SCAssistant) | 生存战争(Survivalcraft) 助手工具 | C# |
+| [survivalcraft-api](https://github.com/YYLMZXC/survivalcraft-api) | 生存战争插件 API | C# |
+| [UnoBrowser](https://github.com/YYLMZXC/UnoBrowser) | 基于 Uno Platform 的跨平台浏览器 | C# |
+| [screen-control](https://github.com/YYLMZXC/screen-control) | Windows 多屏关闭/控制小工具 | C# |
+| [MultiGitCommit](https://github.com/YYLMZXC/MultiGitCommit) | 多平台(GitHub/CNB/Gitee)一键提交工具 | C# |
+| [yylmzxcweb](https://github.com/YYLMZXC/yylmzxcweb) | 个人网站前端 | JavaScript |
+| [yylmzxc.github.io](https://github.com/YYLMZXC/yylmzxc.github.io) | GitHub Pages 个人站点 | JavaScript |
+
+> 更多仓库见我的 [GitHub 主页](https://github.com/YYLMZXC?tab=repositories)
 
 ## 📊 GitHub 统计
 <!-- GitHub Stats Card -->
@@ -79,12 +108,10 @@
     <img src="res/gitee.png" alt="Gitee" width="24" height="24" />
     <span>Gitee</span>
   </a>
-
   <a href="https://v.douyin.com/YKRh4dM-A-4/" target="blank" style="display: flex; align-items: center; gap: 5px;">
     <img src="res/douyin.png" alt="抖音" width="24" height="24" />
     <span>抖音</span>
   </a>
-
   <a href="https://cnb.cool/u/YYLMZXC" target="blank" style="display: flex; align-items: center; gap: 5px;">
     <img src="res/cnb.png" alt="CNB" width="24" height="24" />
     <span>CNB</span>
@@ -94,16 +121,6 @@
 ## 🌐 我的网站
 - [博客](https://www.cnblogs.com/yylmzxc/) - 分享我的学习和项目经验
 - [GitHub Pages](https://yylmzxc.github.io/) - GitHub Pages
-- [GitHub 仓库](https://github.com/YYLMZXC/yylmzxc.github.io) - yylmzxc Pages
-
-## 🔗 相关链接
-- [GitHub DMCA信息](https://github.com/github/dmca/blob/master/2024/02/2024-02-26-geshin-impact.md)
-- [我的项目](https://github.com/YYLMZXC/hk4e)
-
-## 🔗 项目
-
-- [Project Links](https://github.com/YYLMZXC/Project-Links) - Project Links
-
 
 ## 🎨 个人形象
 
