@@ -3,10 +3,11 @@
     "https://github.com/YYLMZXC/YYLMZXC",
     "https://cnb.cool/YYLMZXC/YYLMZXC",
     "https://gitee.com/yylmzxc/yylmzxc",
-    "https://gitcode.com/YYLMZXC/yylmzxc"
+    "https://gitcode.com/YYLMZXC/yylmzxc",
+    "https://gitlab.com/yylmzxc/yylmzxc"
   ],
   "CheckAddAll": true,
   "CheckPushTags": false,
   "CheckForceCommit": false,
-  "CheckForcePush": false
+  "CheckForcePush": true
 }
