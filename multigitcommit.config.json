@@ -9,5 +9,5 @@
   "CheckAddAll": true,
   "CheckPushTags": false,
   "CheckForceCommit": false,
-  "CheckForcePush": true
+  "CheckForcePush": false
 }
